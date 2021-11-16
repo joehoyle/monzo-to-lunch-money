@@ -20,7 +20,7 @@
     "@types/express": "^4.17.2",
     "@types/isomorphic-fetch": "^0.0.35",
     "@types/node": "^13.7.0",
-    "aws-sdk": "^2.614.0",
+    "aws-sdk": "^2.814.0",
     "localtunnel": "^2.0.0",
     "ngrok": "^3.2.7",
     "serverless-plugin-typescript": "^1.1.9",
